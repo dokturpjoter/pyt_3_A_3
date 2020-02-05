@@ -3,7 +3,7 @@ channels:
 dependencies:
   - appmode
   - networkx=1.11
-  - matplotlib=2.2.0
+  - matplotlib=2.2.1
   - numpy
   - pandas
   - ipywidgets
