@@ -3,7 +3,7 @@ channels:
 dependencies:
   - appmode
   - networkx=2.3
-  - matplotlib=2.5
+  - matplotlib=3.03
   - numpy
   - pandas
   - seaborn
